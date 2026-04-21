@@ -1,4 +1,4 @@
-# point_of_sale
+# Point Of Sale
 
 A Point of Sale Project - Admin 
 
